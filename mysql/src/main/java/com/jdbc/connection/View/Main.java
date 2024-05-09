@@ -1,4 +1,4 @@
-package com.jdbc.connection;
+package com.jdbc.connection.View;
 
 import com.jdbc.connection.Persistence.GenericDAO;
 
